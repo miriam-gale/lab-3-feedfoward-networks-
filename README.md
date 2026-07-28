@@ -20,6 +20,7 @@ This lab implements a Feedforward Neural Network (MLP) using PyTorch to classify
 
 ## Files
 - `Lab_3.ipynb` – Main notebook containing all implementations and answers.
+- `requirements.txt`
 
 
 ## Results
