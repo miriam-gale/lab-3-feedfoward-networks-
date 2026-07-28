@@ -20,7 +20,7 @@ This lab implements a Feedforward Neural Network (MLP) using PyTorch to classify
 
 ## Files
 - `Lab_3.ipynb` – Main notebook containing all implementations and answers.
-- `ffn_best.pt` – Saved model weights generated during training (optional; not required unless requested).
+
 
 ## Results
 - **Test Accuracy:** 91.25%
